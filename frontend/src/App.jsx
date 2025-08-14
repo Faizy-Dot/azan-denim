@@ -6,6 +6,7 @@ export default function App() {
         Hello Tailwind CSS 🚀
       </h1>
       <h1>github deployment successfully</h1>
+      <h1 className="text-4xl font-bold text-blue-600">Azan Denim</h1>
     </div>
   );
 }
