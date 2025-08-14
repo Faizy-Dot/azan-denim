@@ -1,4 +1,3 @@
-import logo from './assets/logo.jpg'; // Import the image
 
 export default function App() {
   return (
@@ -7,7 +6,6 @@ export default function App() {
         Hello Tailwind CSS 🚀
       </h1>
       <h1>github deployment successfully</h1>
-      <img src={logo} alt="Logo"  style={{borderRadius : 25 , height : 100 , width : 100}} />
     </div>
   );
 }
